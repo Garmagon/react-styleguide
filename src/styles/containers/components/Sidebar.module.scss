@@ -1,0 +1,6 @@
+@import 'styles/variables.scss';
+
+.Container {
+  min-width: $sidebar-width;
+  background-color: $color-primary;
+}

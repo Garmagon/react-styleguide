@@ -1,7 +1,7 @@
 import { Route, Switch } from 'react-router-dom';
 
-import Documentation from 'containers/Documentation'
-import Welcome from 'containers/Welcome'
+import Documentation from 'containers/pages/Documentation'
+import Welcome from 'containers/pages/Welcome'
 
 const app = () => {
   return (

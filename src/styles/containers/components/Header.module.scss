@@ -1,0 +1,8 @@
+@import 'styles/variables.scss';
+
+.Container {
+  position: sticky;
+  top: 0;
+  height: $header-height;
+  background-color: $color-primary;
+}
